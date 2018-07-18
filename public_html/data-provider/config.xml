@@ -1,0 +1,23 @@
+﻿<configuration
+    storeName="Your Shop Name"
+    logoImage="logo.png"
+    businessEmail="info@caymancelebritypackages.com"
+    enableQuoteCart="1"
+>
+<messages init="Intializating ..." 
+          configLoading="Loading configurations..."
+          loading="Loading products data..." >    
+    <order_submission >
+        <success header="Thank you"> <![CDATA[
+            <strong>Request Submitted Successfully.</strong>
+            <p>
+                Thank you for contacting us! We believe in personalized service. You will be receiving an email about your Adventure Vacation within 24 hours.
+            </p>
+             ]]> </success>
+        <failed header="Something went wrong!!"> <![CDATA[
+            <strong>Request Submission failed. Please try again.</strong>
+            
+        ]]> </failed>
+    </order_submission>
+</messages>
+</configuration>

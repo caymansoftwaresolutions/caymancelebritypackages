@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+	<category categoryName="Transportation" categoryID="transport">
+		<product productName="Private Jet" productID="DSCF0026" thumbPath="assets/images/private-jet02.jpg">
+		</product>
+		<product productName="Commercial Plane" productID="DSCF0027" thumbPath="assets/images/cayman-airways.jpg">
+		</product>
+	</category>
+	<category categoryName="Activities" categoryID="tours">
+		<product productName="Submarine Tour" productID="DSCF0001" thumbPath="assets/images/atlantis-submarine.jpg">
+		</product>
+		
+		<product productName="Yacht" productID="DSCF0003" thumbPath="assets/images/yacht-sales2.jpg" >
+		</product>
+		
+		<product productName="Private Helicopter" productID="DSCF0004" thumbPath="assets/images/island-over-view.jpg">
+		</product>
+		
+		<product productName="Limousine" productID="DSCF0002" thumbPath="assets/images/limousine.jpg">
+		</product>
+		
+		<product productName="Fine Restaurant" productID="DSCF0005" thumbPath="assets/images/fine-restaurant.jpg">
+		</product>
+		
+		<product productName="Bicycle Rental" productID="DSCF0006" thumbPath="assets/images/bicycle.jpg">
+		</product>
+		
+		<product productName="Scuba Diving" productID="DSCF0007" thumbPath="assets/images/scuba-diving.jpg">
+		</product>
+		
+		<product productName="Luxury Bar" productID="DSCF0008" thumbPath="assets/images/luxury-bar.jpg">
+		</product>
+		
+		<product productName="Paddle Boarding" productID="DSCF0009" thumbPath="assets/images/paddle-board.jpg">
+		</product>
+		
+		<product productName="Parasailing" productID="DSCF0010" thumbPath="assets/images/parasailing.jpg">
+		</product>
+		
+		<product productName="Beaches" productID="DSCF0021" thumbPath="assets/images/beaches02.jpg">
+		</product>
+		
+		<product productName="Horse Ride" productID="DSCF0022" thumbPath="assets/images/horse-ride.jpg">
+		</product>
+		
+		<product productName="Sports" productID="DSCF0011" thumbPath="assets/images/volleyball.jpg">
+		</product>
+		
+		<product productName="Segway" productID="DSCF0012" thumbPath="assets/images/segway.jpg">
+		</product>
+		
+		<product productName="Jetpack" productID="DSCF0013" thumbPath="assets/images/jetpack.jpg">
+		</product>
+		
+		<product productName="Jetski" productID="DSCF0014" thumbPath="assets/images/jetski.jpg">
+		</product>
+		
+		<product productName="Star Fish Point" productID="DSCF0015" thumbPath="assets/images/star-fish-point.jpg">
+		</product>
+		
+		<product productName="Swim with Dolphin" productID="DSCF0023" thumbPath="assets/images/dolphin-experience.jpg">
+		</product>
+				
+		<product productName="Stingray City" productID="DSCF0016" thumbPath="assets/images/stingray-lady.jpg">
+		</product>
+		
+		<product productName="Turtle Farm" productID="DSCF0017" thumbPath="assets/images/turtle-farm.jpg">
+		</product>
+		
+		<product productName="Shopping" productID="DSCF0018" thumbPath="assets/images/grand-cayman-town.jpg">
+		</product>
+		
+		<product productName="Cayman Brac" productID="DSCF0019" thumbPath="assets/images/cayman-brac.jpg">
+		</product>
+		
+		<product productName="Little Cayman" productID="DSCF0020" thumbPath="assets/images/hammock.jpg">
+		</product>
+		
+		
+	</category>
+	<category categoryName="Hotels" categoryID="hotels">
+		<product productName="Ritz Carlton" productID="DSCF0200" thumbPath="assets/images/hotels/ritz-carlton03.jpg">
+		</product>
+		
+		<product productName="Grand View Hotel" productID="DSCF0201" thumbPath="assets/images/hotels/grand-view-hotel.jpg">
+		</product>
+		
+		<product productName="Holiday Inn" productID="DSCF0202" thumbPath="assets/images/hotels/holiday-inn.jpg">
+		</product>
+		
+		<product productName="Margaritaville Beach Resort" productID="DSCF0203" thumbPath="assets/images/hotels/Margaritaville-Beach-Resort-Grand.jpg">
+		</product>
+		
+		<product productName="Morritt Hotel" productID="DSCF0204" thumbPath="assets/images/hotels/morritt-suite.jpg">
+		</product>
+		
+		<product productName="Sea Fire" productID="DSCF0206" thumbPath="assets/images/hotels/sea-fire.jpg">
+		</product>
+		
+		<product productName="Sunshine Suites" productID="DSCF0207" thumbPath="assets/images/hotels/sunshine-suites.jpg">
+		</product>
+		
+		<product productName="Westin Hotel" productID="DSCF0208" thumbPath="assets/images/hotels/westin-hotel.jpg">
+		</product>
+		
+		<product productName="Cobalt Coast" productID="DSCF0205" thumbPath="assets/images/hotels/cobalt-coast-grand-cayman.jpg"></product>
+		
+		
+	</category>
+	<category categoryName="Services" categoryID="services">
+		<product productName="Private Chef" productID="DSCF0024" thumbPath="assets/images/private-chef.jpg">
+		</product>
+		
+		<product productName="Babysitter" productID="DSCF0025" thumbPath="assets/images/babysitter.jpg">
+			<details>
+				<p>Offering a wide range of services including on-call babysitting services for your every need whether short term or long term. At home, date nights, hotel, conferencing, wedding or last-minute childcare, we come to you with our assurance of meeting your every need and providing satisfactory services.</p>
+			</details>
+		</product>
+	</category>
+</products>

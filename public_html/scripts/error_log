@@ -1,0 +1,17 @@
+[04-Jun-2018 18:45:35 UTC] PHP Notice:  Undefined index: handling_cart in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 8
+[04-Jun-2018 18:45:35 UTC] PHP Notice:  Undefined index: currency_code in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 11
+[04-Jun-2018 18:58:30 UTC] PHP Notice:  Undefined index: handling_cart in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 8
+[04-Jun-2018 18:58:30 UTC] PHP Notice:  Undefined index: currency_code in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 11
+[04-Jun-2018 23:59:44 UTC] PHP Notice:  Undefined index: handling_cart in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 8
+[04-Jun-2018 23:59:44 UTC] PHP Notice:  Undefined index: currency_code in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 11
+[05-Jun-2018 00:08:21 UTC] PHP Notice:  Undefined index: handling_cart in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 8
+[05-Jun-2018 00:08:21 UTC] PHP Notice:  Undefined index: currency_code in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 11
+[05-Jun-2018 01:26:55 UTC] PHP Notice:  Undefined index: handling_cart in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 8
+[05-Jun-2018 01:26:55 UTC] PHP Notice:  Undefined index: currency_code in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 11
+[18-Jun-2018 01:13:39 UTC] PHP Notice:  Undefined index: handling_cart in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 8
+[18-Jun-2018 01:13:39 UTC] PHP Notice:  Undefined index: currency_code in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 11
+[19-Jun-2018 00:28:51 UTC] PHP Notice:  Undefined index: handling_cart in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 8
+[19-Jun-2018 00:28:51 UTC] PHP Notice:  Undefined index: currency_code in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 11
+[21-Jun-2018 15:41:21 UTC] PHP Notice:  Undefined index: handling_cart in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 8
+[21-Jun-2018 15:41:21 UTC] PHP Notice:  Undefined index: currency_code in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 11
+[21-Jun-2018 16:59:01 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ntzvp9tjsr46/public_html/scripts/cart-mailer.php on line 37
