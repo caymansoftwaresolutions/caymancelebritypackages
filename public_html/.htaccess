@@ -1,4 +1,6 @@
-
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://caymancelebritypackages.com/$1 [R,L]
 
 ## EXPIRES CACHING ##
 <IfModule mod_expires.c>
@@ -14,11 +16,11 @@ ExpiresByType application/x-shockwave-flash "access plus 1 month"
 ExpiresByType image/x-icon "access plus 1 year"
 ExpiresDefault "access plus 2 days"
 </IfModule>
-## EXPIRES CACHING ##
+## EXPIRES CACHING
 
 # php -- BEGIN cPanel-generated handler, do not edit
 # Set the “ea-php56” package as the default “PHP” programming language.
 <IfModule mime_module>
-  AddType application/x-httpd-ea-php56-lsphp .php .php5 .phtml
+  AddType application/x-httpd-ea-php56___lsphp .php .php5 .phtml
 </IfModule>
 # php -- END cPanel-generated handler, do not edit
